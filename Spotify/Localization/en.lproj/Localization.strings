@@ -1,0 +1,32 @@
+
+/// User Dashboard Screen
+"dashboard.home.title" = "Home";
+"dashboard.search.title" = "Search";
+"dashboard.library.title" = "Your Library";
+
+///MARK: Common
+"common.action.delete" = "Delete";
+"common.action.ok" = "Ok";
+"common.message.search" = "Search (minimum 2 characters)";
+
+"common.message.error" = "Error";
+"common.message.emptyPlaylists" = "You don't have any playlists yet. Start by creating a new playlist—just tap the '+' icon!";
+"common.message.emptyMusicTracks" = "No music selected yet. Tap the '+' icon to add new tracks!";
+"common.message.emptySearchResults" = "We couldn't find any results.\nTry searching for your favourite music or artists";
+
+/// Library Screen
+"library.section.playlists" = "Playlists";
+"library.action.cancel" = "Cancel";
+"library.section.songs" = "Songs";
+
+///Playlist
+"playlist.createPlaylistPrompt" = "Create a playlist with a song";
+"playlist.namePrompt" = "Name your playlist.";
+"playlist.action.confirm" = "Confirm";
+"playlist.message.alreadyAdded" = "This is already added in %@";
+"playlist.prompt.enterPlaylistName" = "Enter your playlist name";
+
+///Services message
+"services.message.wait" = "Please wait...";
+"services.message.commonError" = "Something went wrong. Please check again.";
+
