@@ -1,0 +1,8 @@
+strings:
+   inputs:
+     - Spotify/Localization/en.lproj
+   outputs:
+     - templateName: structured-swift5
+       params:
+         enumName: Localization # change the default enum name “L10n” to L
+       output: Spotify/Localization/Generated/LocalizationStringsGenerated.swift
